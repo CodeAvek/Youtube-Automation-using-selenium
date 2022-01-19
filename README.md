@@ -4,8 +4,6 @@ Watch Our ScreenShot And Make Your Work Easy.....
 From Starting to Ending----
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/95927683/150201587-c9ed4572-07a1-42d7-8c9b-61105387ebed.png)
-![Screenshot (5)](https://user-images.githubusercontent.com/95927683/150201907-948f4bc3-4e2d-46e2-85ea-9f451013723d.png)
-![Screenshot (6)](https://user-images.githubusercontent.com/95927683/150201987-7ab2ec62-0dd2-42d2-a766-a7c84c10c30d.png)
 ![Screenshot 2022-01-20 003658](https://user-images.githubusercontent.com/95927683/150202019-d645a132-3044-4b9f-a2a5-e79c87186661.png)
 
 ## CodeAx
