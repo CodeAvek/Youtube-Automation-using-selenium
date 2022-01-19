@@ -39,13 +39,13 @@ driver = webdriver.Chrome(executable_path="chromedriver.exe") #we have chromedri
 for i in range(5):  #We Will Watch Our Video Again Again for five time According to you
     sleep_time = random.randint(10,15)   #we maked a variable which contain time with random second
     print("video is running for {} time".format(i))  #it will say how many time we have played video
-    driver.get("https://www.youtube.com/watch?v=wEYJXPdzbgw") #1st Video
+    driver.get("https://www.youtube.com/watch?v=wEYJXPdzbgw") #1st Video  -You Can Add Your youtube Link
     time.sleep(sleep_time)  
     print(driver.title)
-    driver.get("https://www.youtube.com/watch?v=Y-VwsmMRjFU") #second video
+    driver.get("https://www.youtube.com/watch?v=Y-VwsmMRjFU") #second video -You Can Add Your youtube Link
     print(driver.title)
     time.sleep(sleep_time)
-    driver.get("https://www.youtube.com/watch?v=xXxnMH7d7Pg")  #3rd video
+    driver.get("https://www.youtube.com/watch?v=xXxnMH7d7Pg")  #3rd video  - You Can Add Your youtube Link
     print(driver.title)
     time.sleep(sleep_time)
 driver.quit()
