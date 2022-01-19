@@ -1,10 +1,5 @@
 # Youtube-Automation-using-selenium
 We Will Make Youtube Automation And Run 3 videos for 5 time with Random Time....
-Watch Our ScreenShot And Make Your Work Easy.....
-From Starting to Ending----
-
-![Screenshot (4)](https://user-images.githubusercontent.com/95927683/150201587-c9ed4572-07a1-42d7-8c9b-61105387ebed.png)
-![Screenshot 2022-01-20 003658](https://user-images.githubusercontent.com/95927683/150202019-d645a132-3044-4b9f-a2a5-e79c87186661.png)
 
 ## CodeAx
 
@@ -54,4 +49,13 @@ for i in range(5):  #We Will Watch Our Video Again Again for five time According
     time.sleep(sleep_time)
 driver.quit()
 ```
+
+Watch Our ScreenShot And Make Your Work Easy.....
+From Starting to Ending----
+
+![Screenshot (4)](https://user-images.githubusercontent.com/95927683/150201587-c9ed4572-07a1-42d7-8c9b-61105387ebed.png)
+
+![Screenshot 2022-01-20 011616d](https://user-images.githubusercontent.com/95927683/150202965-02bede24-32e5-4621-841e-c0b9798caa93.png)
+
+![Screenshot 2022-01-20 003658](https://user-images.githubusercontent.com/95927683/150202019-d645a132-3044-4b9f-a2a5-e79c87186661.png)
 
